@@ -323,11 +323,10 @@ body {
     display: inline-block;
     width: 100px;
     height: 100px;
-    background: url(/img/nemo/tennis_ball.png) 0 0 / 100px no-repeat;
+    background: url(../img/nemo/tennis_ball.png) 0 0 / 100px no-repeat;
    transform: translate(1340px, 130px);
     z-index: 10;
 }
-
 .contents {
     display: flex;
 }
