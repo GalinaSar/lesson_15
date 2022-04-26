@@ -333,6 +333,7 @@ body {
 .contents__pup {
     flex: 0 1 50%;
     padding-top: 44px;
+    align-self: flex-end;
  }
  .contents__image {
     max-width: 100%;
@@ -347,6 +348,7 @@ body {
     flex-direction: column;
     gap: 45px;
     padding-top: 112px;
+    padding-bottom: 10px;
 }
 .blok__text {
     font-size: 36px;
